@@ -11,6 +11,10 @@ RenderDoc
 
 https://renderdoc.org/
 
-AMD ROCm Documents
+AMD ROCm Documentation
 
 https://rocmdocs.amd.com/en/latest/index.html#
+
+RenderDoc Documentation
+
+https://renderdoc.org/docs/index.html
