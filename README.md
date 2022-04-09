@@ -11,9 +11,15 @@ RenderDoc
 
 https://renderdoc.org/
 
+=============================================
+
 AMD ROCm Documentation
 
 https://rocmdocs.amd.com/en/latest/index.html#
+
+AMD CodeXL Documentation
+
+https://documentation.help/CodeXL/introduction.htm
 
 RenderDoc Documentation
 
