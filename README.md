@@ -24,3 +24,7 @@ https://documentation.help/CodeXL/introduction.htm
 RenderDoc Documentation
 
 https://renderdoc.org/docs/index.html
+
+OpenCL Programming Guide
+
+https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html
